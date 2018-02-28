@@ -1,0 +1,20 @@
+00,Other
+01,Dairy
+02,Bakery
+03,Produce
+04,Canned Goods
+05,Cereal
+06,Baking
+07,Condiments
+08,Beverages
+09,Frozen Foods   
+10,Ethnic Foods
+11,Pasta/Rice
+12,Meats
+13,Snacks
+14,Your Ad Here
+15,School
+16,Cleaning/Laundry
+17,Paper
+18,Health/Beauty
+19,Non-foods
